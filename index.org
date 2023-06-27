@@ -1,0 +1,8 @@
+#+title: frandibar's page
+#+options: toc:nil
+#+options: num:nil
+
+* [[https://frandibar.github.io/opus-magnum/index.html][Opus Magnum game solutions]]
+* [[https://frandibar.github.io/claves][claves]]
+* [[https://frandibar.github.io/telefonos.html][telefonos]]
+* [[https://frandibar.github.io/pasaporte.html][pasaporte]]
