@@ -1,0 +1,240 @@
+#+title: Opus Magnum Game Solutions
+#+html_head_extra: <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Carter+One"></link><style>*{font-family: 'Carter One';}</style>
+#+options: num:nil
+
+[[https://www.zachtronics.com/opus-magnum/][Opus Magnum]] is a puzzle based programming game developed by Zachtronics.
+
+*SPOILER ALERT*: The following videos are some of my solutions to the problems.
+
+* Prologue
+#+CAPTION: P.8 Stabilized Water
+[[./P.08_Stabilized-Water_2017-12-16-15-45-00.gif]]
+
+* Chapter 1
+#+CAPTION: 1.1 Refined Gold
+[[./1.01_Refined-Gold_2017-12-03-12-39-11.gif]]
+
+#+CAPTION: 1.2 Face Powder
+[[./1.02_Face-Powder_2017-12-03-12-31-20.gif]]
+
+#+CAPTION: 1.3 Waterproof Sealant
+[[./1.03_Waterproof-Sealant_2017-12-03-12-20-33.gif]]
+
+#+CAPTION: 1.4 Hangover Cure
+[[./1.04_Hangover-Cure_2017-12-16-15-52-20.gif]]
+
+#+CAPTION: 1.5 Airship Fuel
+[[./1.05_Airship-Fuel_2017-12-03-12-03-36.gif]]
+
+#+CAPTION: 1.7 Health Tonic
+[[./1.07_Health-Tonic_2017-12-03-13-44-59.gif]]
+
+#+CAPTION: 1.8 Stamina Potion
+[[./1.08_Stamina-Potion_2017-12-16-16-30-32.gif]]
+
+* Chapter 2
+
+#+CAPTION: 2.1 Hair Product
+[[./2.01_Hair-Product_2017-12-16-16-40-07.gif]]
+
+#+CAPTION: 2.2 Rocket Propellant
+[[./2.02_Rocket-Propellant_2017-12-03-20-49-14.gif]]
+
+#+CAPTION: 2.3 Mist of Incapacitation
+[[./2.03_Mist-of-Incapacitation_2017-12-03-21-48-59.gif]]
+
+#+CAPTION: 2.4 Explosive Phial
+[[./2.04_Explosive-Phial_2017-12-16-22-24-51.gif]]
+
+#+CAPTION: 2.5 Armor Filament
+[[./2.05_Armor-Filament_2017-12-03-22-45-04.gif]]
+
+#+CAPTION: 2.6 Courage Potion
+[[./2.06_Courage-Potion_2017-12-16-22-28-25.gif]]
+
+#+CAPTION: 2.7 Surrender Flare
+[[./2.07_Surrender-Flare_2017-12-04-00-26-11.gif]]
+
+* Chapter 3
+#+CAPTION: 3.1 Alcohol Separation
+[[./3.01_Alcohol-Separation_2017-12-05-22-38-57.gif]]
+
+#+CAPTION: 3.2 Water Purifier
+[[./3.02_Water-Purifier_2017-12-05-22-59-36.gif]]
+
+#+CAPTION: 3.3 Seal Solvent
+[[./3.03_Seal-Solvent_2017-12-16-23-34-31.gif]]
+
+#+CAPTION: 3.4 Climbing Rope Fiber
+[[./3.04_Climbing-Rope-Fiber_2017-12-08-01-48-19.gif]]
+
+#+CAPTION: 3.5 Warming Tonic
+[[./3.05_Warming-Tonic_2017-12-08-02-28-30.gif]]
+
+#+CAPTION: 3.7 Very Dark Thread (optimized for area)
+[[./3.07_Very-Dark-Thread_2017-12-09-01-09-43.gif]]
+
+#+CAPTION: 3.7 Very Dark Thread (optimized for cycles)
+[[./3.07_Very-Dark-Thread_2017-12-17-01-07-13.gif]]
+
+* Chapter 4
+#+CAPTION: 4.1 Litharge Separation
+[[./4.01_Litharge-Separation_2017-12-10-14-20-50.gif]]
+
+#+CAPTION: 4.2 Stain Remover
+[[./4.02_Stain-Remover_2017-12-16-15-17-19.gif]]
+
+#+CAPTION: 4.3 Sword Alloy
+[[./4.03_Sword-Alloy_2017-12-18-23-31-44.gif]]
+
+#+CAPTION: 4.5 Purified Gold
+[[./4.05_Purified-Gold_2017-12-17-23-17-57.gif]]
+
+#+CAPTION: 4.6 Alchemical Jewel (optimized for area)
+[[./4.06_Alchemical-Jewel_2017-12-19-00-56-55.gif]]
+
+#+CAPTION: 4.6 Alchemical Jewel (optimized for cycles)
+[[./4.06_Alchemical-Jewel_2017-12-19-17-45-31.gif]]
+
+#+CAPTION: 4.7 Golden Thread
+[[./4.07_Golden-Thread_2017-12-19-00-30-36.gif]]
+
+#+CAPTION: 4.7 Golden Thread (alternative solution)
+[[./4.07_Golden-Thread_2017-12-19-13-27-03.gif]]
+
+* Chapter 5
+#+CAPTION: 5.1 Mist of Hallucination
+[[./5.01_Mist-of-Hallucination_2017-12-19-23-23-18.gif]]
+
+#+CAPTION: 5.2 Timing Crystal
+[[./5.02_Timing-Crystal_2017-12-20-00-28-48.gif]]
+
+#+CAPTION: 5.3 Voltaic Coil
+[[./5.03_Voltaic-Coil_2018-01-01-16-48-36.gif]]
+
+#+CAPTION: 5.4 Unstable Compound
+[[./5.04_Unstable-Compound_2018-01-03-01-15-33.gif]]
+
+#+CAPTION: 5.5 Curious Lipstick
+[[./5.05_Curious-Lipstick_2018-01-02-23-52-07.gif]]
+
+#+CAPTION: 5.6 Universal Solvent
+[[./5.06_Universal-Solvent_2018-01-13-23-04-37.gif]]
+
+*                                                                  :noexport:
+TODO: Add missing 1.6, 3.6, 4.4
+
+Prologue
+P-1 Introduction
+P-2 Arms
+P-3 Pivots
+P-4 Pistons
+P-5 Tracks
+P-6 Transmutations
+P-7 Bonding
+P-8 Stabilized Water
+Chapter 1
+1-1 Refined Gold
+1-2 Face Powder
+1-3 Waterproof Sealant
+1-4 Hangover Cure
+1-5 Airship Fuel
+1-6 Precision Machine Oil
+1-7 Health Tonic
+1-8 Stamina Potion
+Chapter 2
+2-1 Hair Product
+2-2 Rocket Propellant
+2-3 Mist of Incapacitation
+2-4 Explosive Phial
+2-5 Armor Filament
+2-6 Courage Potion
+2-7 Surrender Flare
+Chapter 3
+3-1 Alcohol Separation
+3-2 Water Purifier
+3-3 Seal Solvent
+3-4 Climbing Rope Fiber
+3-5 Warming Tonic
+3-6 Life-Sensing Potion
+3-7 Very Dark Thread
+Chapter 4
+4-1 Litharge Separation
+4-2 Stain Remover
+4-3 Sword Alloy
+4-4 Invisible Ink
+4-5 Purified Gold
+4-6 Alchemical Jewel
+4-7 Golden Thread
+Chapter 5
+5-1 Mist of Hallucination
+5-2 Timing Crystal
+5-3 Voltaic Coil
+5-4 Unstable Compound
+5-5 Curious Lipstick
+5-6 Universal Solvent
+Fontenelle's Alchemical Observations
+F-1 Silver Paint
+F-2 Viscous Sludge
+F-3 Fragrant Powders
+F-4 Rat Poison
+F-5 Special Amaro
+F-6 Vapor of Levity
+F-7 Abrasive Particles
+F-8 Eyedrops of Revelation
+F-9 Parade-Rocket Fuel
+F-10 Aether Detector
+F-11 Reconstructed Solvent
+Journal I
+JI-1 Van Berlo's Wheel
+JI-2 Van Berlo's Chain
+JI-3 Reactive Cinnabar
+JI-4 Silver Caustic
+JI-5 Lambent II/IX
+Journal II
+JII-1 Explorer's Salve
+JII-2 Preservative Salt
+JII-3 Sailcloth Thread
+JII-4 Buoyant Cable
+JII-5 Spyglass Crystal
+Journal III
+JIII-1 Ravari's Wheel
+JIII-2 Lubricating Filament
+JIII-3 Resonant Crystal
+JIII-4 Refined Bronze
+JIII-5 Ablative Crystal
+Journal IV
+JIV-1 Proof of Completeness
+JIV-2 Wheel Representation
+JIV-3 Synthesis via Alcohol
+JIV-4 Universal Compound
+Journal V
+JV-1 General Anaesthetic
+JV-2 Wakefulness Potion
+JV-3 Suture Thread
+JV-4 Blood-Stanching Powder
+JV-5 Tonic of Hydration
+Journal VI
+JVI-1 Hexstabilized Salt
+JVI-2 Lustre
+JVI-3 Lamplight Gas
+JVI-4 Conductive Enamel 	
+JVI-5 Welding Thermite
+Journal VII
+JVII-1 Van Berlo's Pivots
+JVII-2 Reactive Gold
+JVII-3 Assassin's Filament
+JVII-4 Vaporous Solvent
+JVII-5 Alchemical Slag
+Journal VIII
+JVIII-1 Explosive Victrite
+JVIII-2 Celestial Thread
+JVIII-3 Visillary Anaesthetic
+JVIII-4 Animismus Buffer
+JVIII-5 Electrum Separation
+Journal IX
+JIX-1 Hyper-Volatile Gas
+JIX-2 Vanishing Material
+JIX-3 Synthetic Malachite
+JIX-4 Embalming Fluid
+JIX-5 Quintessential Medium
